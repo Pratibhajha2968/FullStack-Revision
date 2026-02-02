@@ -1,0 +1,2 @@
+// React : - React is js library . It is used to make one page application . It was introduced by facebook in the year 2008.
+// React directly cannot be written inside html bolerplate because chrom doesnot support jsx file , it needs vite or webpack for creating projects
