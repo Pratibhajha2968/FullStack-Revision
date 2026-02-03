@@ -1,0 +1,12 @@
+Microservices is a software architecture in which an application is divided into small, loosely coupled services.
+
+Microservices break a large application into small independent services that work together.
+
+Microservices is for:
+Big systems
+Many users
+Many developers
+
+They communicate using HTTP APIs.
+
+Microservices = multiple apps, not multiple classes.

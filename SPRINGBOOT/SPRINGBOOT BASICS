@@ -1,0 +1,21 @@
+SpringBoot : = It is a java framework which is used to build backend application easily and quickly.
+
+Spring Boot is a framework that simplifies the development of Java applications by providing auto-configuration and embedded servers.
+
+Spring Boot helps you:
+   Create REST APIs
+   Connect to databases
+   Handle authentication
+   Build microservices
+   With very little configuration.
+
+   Before vs After Spring Boot
+    Without Spring Boot (old Spring)
+       Lots of XML
+       Manual server setup
+       Too much configuration
+
+    With Spring Boot
+       No XML
+       No server install
+       Just write code and run
