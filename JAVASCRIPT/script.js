@@ -7,4 +7,12 @@
 
 
 
-console.log("Welcome back");
+// Variables in Javascript :- Variables in js are the containers which are used to store data or values which can used or declared during program execution.
+
+
+//  Javascript has 3 ways to declare variales :- 
+// let , var and const
+
+
+
+console.log("Welcome Back");
