@@ -11,7 +11,7 @@
 
 
 //  Javascript has 3 ways to declare variales :- 
-// let , var and const
+// let , var and const are keywords in js to declsre 
 
 
 
