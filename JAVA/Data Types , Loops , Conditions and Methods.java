@@ -49,3 +49,37 @@
 
 
 3. Conditions in java :-Conditions are used to make decision based on the required condition which is true or false.
+
+   Types of condition:-
+    1.if condition
+      => used when there is only one condition that is true.
+      ex: int age = 18;
+              if(age >= 18) {
+            System.out.println("Eligible to vote");
+             }
+    2.if-else condition
+      => used when there are two condition both true and false.
+      ex: int num=6;
+           if(num % 4==0){
+            syso(true);
+           }else{
+            syso(false);
+           }
+    3.if-else-if condition
+      => it used for multiple condition 
+      ex: int marks = 75;
+           if(marks >= 90) {
+             System.out.println("A");
+            } else if(marks >= 60) {
+             System.out.println("B");
+            } else {
+             System.out.println("C");
+            }
+    4.switch condition
+      => used for comparing one variable with many values.
+      ex: int day = 2;
+            switch(day) {
+            case 1: System.out.println("Monday"); break;
+            case 2: System.out.println("Tuesday"); break;
+            default: System.out.println("Invalid");
+            }
