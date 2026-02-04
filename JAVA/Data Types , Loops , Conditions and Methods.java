@@ -83,3 +83,26 @@
             case 2: System.out.println("Tuesday"); break;
             default: System.out.println("Invalid");
             }
+
+
+   Operators used in condition are :-
+         1.==(equal)
+         2.!=(not equal)
+         3.>(greater than)
+         4.<(less than)
+         5.&&(and opeartor)
+         6.!(not opeartor)
+
+
+ 4. Methods :- A block of code that runs when called and can take inputs and return output.
+ 
+      In Java, methods:
+        Must be inside a class
+        Have a return type
+        Are strongly typed
+
+        In java methods can be declare on the basis of parameters and return type :-
+                1.with no parameters and no return type
+                2.with no parameters and return type
+                3.with parameters and no return type
+                4.with parameters and return type 

@@ -28,3 +28,36 @@
         => it is the modern or enhanced loop which is used the most for arrays,strings and iterable objects.
        5.for-in loop
          => it is used for object.it iterates over keys.
+
+
+3. Conditions in js :-  Conditions are used to make decision based on the required condition that is true or false.
+  
+   Types of conditions :
+     1.if 
+      => works for only one condition that is true.
+     2.if-else
+      => works for both condition that is true and false.
+     3.if-else-if
+      => works for multiple condition
+     4.switch statement
+      =>it compares one value with many cases
+
+      Conditions in js uses boolean opeartors that is true , false and null values
+
+4.Methods in js:- A method in JavaScript is a function that performs a   specific     task    and can be called when needed.
+  Methods are reusable blocks of code.
+
+       In JS, methods/functions:
+          Can exist anywhere
+          No fixed return type
+          More flexible
+
+          In js methods can be declare in 5 ways mainly based on function :-
+                 1.Function Declaration
+                 2.Arrow Function(es6 feature)
+                 3.Function expression
+                 4.object Method
+                 5.Constructor function
+
+        Most common used methods or functions in real projects are :-
+            Arrow function , function Declaration , object method(react and node)
