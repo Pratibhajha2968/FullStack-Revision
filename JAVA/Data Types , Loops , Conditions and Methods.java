@@ -46,3 +46,6 @@
           while(i<=5)
             syso;
             i++;
+
+
+3. Conditions in java :-Conditions are used to make decision based on the required condition which is true or false.
