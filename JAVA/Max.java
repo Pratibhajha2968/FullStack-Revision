@@ -8,9 +8,9 @@ public class Max{
 
         if(a==b){
             System.out.println("b is greater");
-        } else (b==c){
+        } else (b==c);{
             System.out.println("b is greater");
-        } else-if(a==c){
+        } elseif(a==c);{
             System.out.println("c is greater");
         }
 
