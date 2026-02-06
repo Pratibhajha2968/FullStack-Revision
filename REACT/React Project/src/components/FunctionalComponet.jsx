@@ -1,10 +1,21 @@
 import React from 'react'
+import "../styles/FunctionalComponent.css"
 
 const FunctionalComponent = () => {
   return (
-    <div>
-      Arrow function
-    </div>
+    <>
+    <form action="login">
+      <h4>Functional Component</h4>
+      <h5>Registeration form</h5>
+      <input type="text" placeholder='enter your name' /><br />
+      <input type="text" placeholder='enter your email' /><br />
+      <input type="text" placeholder='enter your password' />
+      <h5>Already have an account? Login</h5>
+      <button>submit</button>
+
+    </form>
+     
+      </>
   )
 }
 
