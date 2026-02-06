@@ -1,11 +1,15 @@
-import ArrowFunction from "./components/ArrowFunction";
-import ClassFunction from "./components/ClassFunction";
-
+import React from "react"
+import ClassComponent from "./components/ClassComponent";
+import FunctionComponent from "./components/FunctionComponet";
+import ContainerComponent from "./components/ContainerComponent";
+import PresentationalComponent from "./components/PresentationalComponent";
 const App = () => {
   return (
     <>
-      <ClassFunction />
-      <ArrowFunction />
+      <ClassComponent />
+      <ContainerComponent />
+      <FunctionComponent />
+      <PresentationalComponent />
     </>
   );
 };

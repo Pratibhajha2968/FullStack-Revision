@@ -1,0 +1,24 @@
+A component in react is just a javascript function that returns jsx file that is html code inside react , can be reused and can receive data.
+
+
+React is componet based because in this codes are reusable , it gives a clear structure for code , helps to build scalable apps and it is easy for debugging.
+
+Types of components are :
+   four components are basically used :-
+      1.class component
+      2.functional component
+      3.presentational (UI) component
+      4.container(logic) component
+
+
+      other components which are used in building real apps are :- 
+           5.Reusable components
+           6.High-order-components
+           7.controlled components(form)
+           8.lazy components(performance)
+
+
+           Life cycle of components are : - 
+               1.MOUNT
+               2.UNMOUNT
+               3.UPDATE

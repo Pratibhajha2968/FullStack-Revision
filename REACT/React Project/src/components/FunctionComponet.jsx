@@ -1,6 +1,6 @@
 import React from 'react'
 
-const ArrowFunction = () => {
+const FunctionComponent = () => {
   return (
     <div>
       Arrow function
@@ -8,4 +8,4 @@ const ArrowFunction = () => {
   )
 }
 
-export default ArrowFunction
+export default FunctionComponent
