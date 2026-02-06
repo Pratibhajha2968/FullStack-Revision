@@ -1,11 +1,5 @@
-import React from 'react'
-
 const ClassFunction = () => {
-  return (
-    <div>
-      class
-    </div>
-  )
-}
+  return <div>class Function</div>;
+};
 
-export default ClassFunction
+export default ClassFunction;
