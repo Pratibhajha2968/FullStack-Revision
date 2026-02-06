@@ -1,6 +1,6 @@
 import React from "react"
 import ClassComponent from "./components/ClassComponent";
-import FunctionComponent from "./components/FunctionComponet";
+import FunctionalComponent from "./components/FunctionalComponet";
 import ContainerComponent from "./components/ContainerComponent";
 import PresentationalComponent from "./components/PresentationalComponent";
 const App = () => {
@@ -8,7 +8,7 @@ const App = () => {
     <>
       <ClassComponent />
       <ContainerComponent />
-      <FunctionComponent />
+      <FunctionalComponent />
       <PresentationalComponent />
     </>
   );
