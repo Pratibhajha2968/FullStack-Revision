@@ -11,7 +11,7 @@ const FunctionalComponent = () => {
       <input type="text" placeholder='enter your email' /><br />
       <input type="text" placeholder='enter your password' />
       <h5>Already have an account? Login</h5>
-      <button>submit</button>
+      <button type='submit'>submit</button>
 
     </form>
      
