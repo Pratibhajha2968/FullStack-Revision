@@ -16,9 +16,12 @@ public class Array{
 
 // Array = An array is a collection of same data types stored in contiguous memory location.
 //    OR  
-//       An array is used to store multiple values in a single variable.
+//       An array is used to store multiple values in a single variable. Array is based on index position. Index position starts from 0 . Arrays are immutable means its length cant be changed just you can replace one element with other. We can access elements in array on the basis of index position.
 
 //  Types of Array :-
 //        one- dimensional array
-//        two-dimensional array
+              //   => use simple list of elements in a single row. used to store marks , prices and ages.
+ //        two-dimensional array
+             //    => Arrays of arrays that means rows and columns. they are stored in the form matrix.they are used for tables , grid and students marks.
 //        multi-dimensional array
+            //   It is also a 2d array but with different sizes in this each row and column have different sizes of rows and columns.
