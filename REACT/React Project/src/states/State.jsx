@@ -9,6 +9,11 @@
                  Here count is the state , first it was 0 then it changes to 5
 
 
+    In react , state is a built in object used to store dynamic data that affects what is shown in the screen
+
+            As states changes - UI also keeps on changing.
+
+
 
 
 
