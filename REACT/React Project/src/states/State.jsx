@@ -14,6 +14,14 @@
             As states changes - UI also keeps on changing.
 
 
+           1. count → current state value
+           2. setCount() → updates the state
+           3. Clicking button changes state → screen updates
+
+
+        State is a data container that holds information about a component and controls its behavior and rendering. When the state changes, the UI updates automatically.
+
+
 
 
 
