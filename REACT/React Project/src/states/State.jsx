@@ -6,6 +6,7 @@
                int count = 0;   // state = 0
                  count = 5;    // state changed to 5
 
+                 Here count is the state , first it was 0 then it changes to 5
 
 
 
