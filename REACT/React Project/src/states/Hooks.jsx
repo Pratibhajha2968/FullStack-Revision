@@ -5,7 +5,9 @@
                  hooks were introduced in 16.8 version
 
 
-                 
+         hooks are inbuilt function components in react
+   -     can use hooks inside function component on top of other code like conditional
+         ,looping and rendering etc.,    
 
 
 */
