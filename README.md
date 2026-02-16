@@ -66,3 +66,16 @@ Managed authentication tokens and implemented protected navigation.
 
 Handled conditional rendering based on user authentication state.
 =============================================================================================================================
+
+3. Personal Portfolio Website
+
+Tech: React.js, HTML, CSS
+
+Designed responsive portfolio showcasing projects and skills.
+
+Implemented modular component-based architecture.
+
+Used React Router for navigation.
+
+Focused on clean UI and optimized rendering performance.
+================================================================================================================================
