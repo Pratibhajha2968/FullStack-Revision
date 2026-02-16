@@ -31,3 +31,24 @@ OOP	strong	flexible
 Logic	same	same
 
 Logic is universal. Only syntax changes.
+
+
+
+PROJECTS:-
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+1. Job Portal Application (Frontend Focus)
+
+Tech: React.js, REST API Integration
+
+Built responsive UI using functional components and React Hooks.
+
+Implemented routing using React Router.
+
+Integrated backend APIs for job listing and user authentication.
+
+Managed application state efficiently to avoid unnecessary re-renders.
+
+Implemented protected routes using JWT-based authentication.
+
+Designed reusable components for scalability.
