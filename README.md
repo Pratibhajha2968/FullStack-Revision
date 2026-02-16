@@ -79,3 +79,15 @@ Used React Router for navigation.
 
 Focused on clean UI and optimized rendering performance.
 ================================================================================================================================
+
+INTERNSHIP
+Java Full Stack Development Trainee – ExcelR
+
+Completed 4-month intensive training in Java Full Stack Development.
+
+Built backend applications using Spring Boot.
+
+Developed frontend using React.js.
+
+Integrated MySQL database with backend.
+===============================================================================================================================
