@@ -52,3 +52,17 @@ Managed application state efficiently to avoid unnecessary re-renders.
 Implemented protected routes using JWT-based authentication.
 
 Designed reusable components for scalability.
+=============================================================================================================================
+
+2. Authentication System (MERN – Frontend Emphasis)
+
+Tech: React.js, Axios
+
+Developed login and registration forms with validation.
+
+Integrated secure backend APIs using Axios.
+
+Managed authentication tokens and implemented protected navigation.
+
+Handled conditional rendering based on user authentication state.
+=============================================================================================================================
