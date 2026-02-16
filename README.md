@@ -31,3 +31,63 @@ OOP	strong	flexible
 Logic	same	same
 
 Logic is universal. Only syntax changes.
+
+
+
+PROJECTS:-
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+1. Job Portal Application (Frontend Focus)
+
+Tech: React.js, REST API Integration
+
+Built responsive UI using functional components and React Hooks.
+
+Implemented routing using React Router.
+
+Integrated backend APIs for job listing and user authentication.
+
+Managed application state efficiently to avoid unnecessary re-renders.
+
+Implemented protected routes using JWT-based authentication.
+
+Designed reusable components for scalability.
+=============================================================================================================================
+
+2. Authentication System (MERN – Frontend Emphasis)
+
+Tech: React.js, Axios
+
+Developed login and registration forms with validation.
+
+Integrated secure backend APIs using Axios.
+
+Managed authentication tokens and implemented protected navigation.
+
+Handled conditional rendering based on user authentication state.
+=============================================================================================================================
+
+3. Personal Portfolio Website
+
+Tech: React.js, HTML, CSS
+
+Designed responsive portfolio showcasing projects and skills.
+
+Implemented modular component-based architecture.
+
+Used React Router for navigation.
+
+Focused on clean UI and optimized rendering performance.
+================================================================================================================================
+
+INTERNSHIP
+Java Full Stack Development Trainee – ExcelR
+
+Completed 4-month intensive training in Java Full Stack Development.
+
+Built backend applications using Spring Boot.
+
+Developed frontend using React.js.
+
+Integrated MySQL database with backend.
+===============================================================================================================================
