@@ -34,6 +34,23 @@
                                Toggle buttons
                                UI visibility
                 => useEffect =It is used to call or handle side effects    (API calls , timers etc)
+                        API calls
+                        setTimeout / setInterval
+                        Event listeners
+                        DOM manipulation
+                    Lifecycle of useEffect are :-
+                         componentdidMount
+                         componentdidUpdate
+                         componentwillMount
+
+                    Dependency array controls execution:
+                          [] → Run once
+                          [value] → Run when value changes
+                           No array → Run every render
+                    When to use?
+                          Fetch data
+                          Subscribe/unsubscribe
+                          Trigger logic after state change
                 => useContext =It is used to handle or access global data from context.
                     All this hooks are very important in day to day project.
 
