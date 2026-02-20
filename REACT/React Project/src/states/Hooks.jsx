@@ -53,6 +53,16 @@
                           Trigger logic after state change
                 => useContext =It is used to handle or access global data from context.
                     All this hooks are very important in day to day project.
+                        Access global data without prop drilling.
+                          App → Parent → Child → Grandchild
+                          Passing props manually at every level,
+
+                               Context allows direct access:
+                                   Grandchild → directly get value
+                                        Common Use Cases:
+                                               Theme (dark/light)
+                                               Authentication user
+                                               Language settings
 
                        
                           
