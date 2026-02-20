@@ -16,5 +16,7 @@
     2.custom hooks - created by developer/user
 
 
+    React Hooks are special functions introduced in React 16.8 that let you use state and other React features in functional components. Hooks allow functional components to do things that previously only class components could do, like managing state or using lifecycle methods.
+
 
 */
