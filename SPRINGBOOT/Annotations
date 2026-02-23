@@ -4,3 +4,5 @@
 
 
 @Service is used at the business logic layer, where core application logic and validations are implemented.
+
+@Repository is used at the data access layer to interact with the database and perform CRUD operations.
