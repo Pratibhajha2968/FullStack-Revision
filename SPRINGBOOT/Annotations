@@ -6,3 +6,5 @@
 @Service is used at the business logic layer, where core application logic and validations are implemented.
 
 @Repository is used at the data access layer to interact with the database and perform CRUD operations.
+
+Internally, all three annotations work the same because they are meta-annotated with @Component. However, @Repository provides additional functionality such as automatic exception translation of database exceptions into Spring’s DataAccessException.”
