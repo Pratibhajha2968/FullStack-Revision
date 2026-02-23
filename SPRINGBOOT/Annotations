@@ -1,2 +1,3 @@
 @Component is a generic stereotype annotation used to register a class as a Spring bean in the application context.
 
+@Service and @Repository are specialized forms of @Component.
