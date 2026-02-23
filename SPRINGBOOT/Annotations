@@ -1,3 +1,6 @@
 @Component is a generic stereotype annotation used to register a class as a Spring bean in the application context.
 
 @Service and @Repository are specialized forms of @Component.
+
+
+@Service is used at the business logic layer, where core application logic and validations are implemented.
