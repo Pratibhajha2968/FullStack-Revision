@@ -8,3 +8,6 @@
 @Repository is used at the data access layer to interact with the database and perform CRUD operations.
 
 Internally, all three annotations work the same because they are meta-annotated with @Component. However, @Repository provides additional functionality such as automatic exception translation of database exceptions into Spring’s DataAccessException.”
+
+
+@Controller is used in traditional Spring MVC applications to return view names such as JSP, HTML, or Thymeleaf templates. It is mainly used when building server-side rendered web applications.
