@@ -14,3 +14,8 @@ Internally, all three annotations work the same because they are meta-annotated 
 
 
 @RestController is used to build RESTful web services. It returns data directly in JSON or XML format and does not require @ResponseBody.
+
+
+Internally, @RestController is a combination of @Controller and @ResponseBody.
+
+The choice between them depends on whether the application is a UI-based MVC application or a REST API-based backend service.”
