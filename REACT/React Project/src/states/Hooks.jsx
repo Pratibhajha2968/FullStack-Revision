@@ -64,7 +64,8 @@
                                                Authentication user
                                                Language settings
 
-                       
+          2. Additional Hooks :-
+                       These are used for optimization and aadvanced scenarios.             
                           
 
 
