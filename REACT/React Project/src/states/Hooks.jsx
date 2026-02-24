@@ -51,6 +51,9 @@
                           Fetch data
                           Subscribe/unsubscribe
                           Trigger logic after state change
+
+
+            2 . Additional Hooks :-              
                 => useContext =It is used to handle or access global data from context.
                     All this hooks are very important in day to day project.
                         Access global data without prop drilling.
@@ -63,10 +66,6 @@
                                                Theme (dark/light)
                                                Authentication user
                                                Language settings
-
-          2. Additional Hooks :-
-                       These are used for optimization and aadvanced scenarios.             
-                          
 
 
 */
