@@ -53,7 +53,8 @@
                           Trigger logic after state change
 
 
-            2 . Additional Hooks :-              
+            2 . Additional Hooks :- 
+                       These are used for advance and optimization purpose.
                 => useContext =It is used to handle or access global data from context.
                     All this hooks are very important in day to day project.
                         Access global data without prop drilling.
