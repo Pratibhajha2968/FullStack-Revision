@@ -67,7 +67,8 @@
                                                Theme (dark/light)
                                                Authentication user
                                                Language settings
-                  => useRef = Used to reference DOM elements or store mutable values.                             
+                  => useRef = Used to reference DOM elements or store mutable values.
+                              It does not re-render components when values changes.
 
 
 */
