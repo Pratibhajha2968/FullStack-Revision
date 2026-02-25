@@ -1,0 +1,20 @@
+/*   
+          Authentication and Authorization :- 
+              Authentication is the process of verifying the identity of a user,
+              ensuring they are who they claim to be. Authorization occurs after authentication and determines what resources or actions the authenticated user is allowed to access. If authentication fails,
+              the server typically returns a 401 Unauthorized error. If authentication succeeds but the user does not have permission,
+              it returns a 403 Forbidden error.
+
+
+
+
+
+
+
+
+
+
+
+
+
+*/
