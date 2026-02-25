@@ -14,6 +14,9 @@
                          JWT token verification
 
             Authorization Example :-
+                         Admin can delete users 
+                         Normal user cannot access admin panel 
+                         Only HR can view employee salaries
 
 
 
