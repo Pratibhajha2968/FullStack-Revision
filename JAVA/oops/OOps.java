@@ -9,7 +9,7 @@
                            1. Abstract classes.
                            2. Interface.
          2. Encapsulation
-         3. Abstraction
+         3. Inheritance
          4. Polymorphism   
 
 
