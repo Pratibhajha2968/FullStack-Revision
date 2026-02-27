@@ -43,4 +43,9 @@ Spring Boot helps you:
          React sends HTTP request using axios.
       2. Request reaches embedded server . 
          The request first reaches the embedded Tomcat server inside Spring Boot.
-        
+      3. DispatcherServlet Handles it.
+         Spring’s DispatcherServlet receives the request.
+         It acts as a front controller. 
+         It decides which controller method should handle the request.
+       
+       
