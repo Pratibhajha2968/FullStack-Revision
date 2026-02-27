@@ -31,4 +31,7 @@ Spring Boot helps you:
           Finds classes with @RestController , @Service , @Repository etc.
       4. Beans are created 
           Objects are created and stored in container .
-      5
+      5. Dependencies are injected.
+          Controller -> Service -> Repository
+      6. Embedded server (Tomcat) starts
+          Application is ready to handle requests. 
