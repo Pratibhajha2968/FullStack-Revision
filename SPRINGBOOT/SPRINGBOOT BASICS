@@ -19,3 +19,12 @@ Spring Boot helps you:
        No XML
        No server install
        Just write code and run
+
+
+
+   What happens when Spring Boot application starts ?
+    => When spring boot application starts :-
+      1. Main method gets execute .
+      2. Spring creates @ApplicationContext (IoC container)
+              It is responsible for managing beans , handling DI and managinglifecycle.
+      3.  
