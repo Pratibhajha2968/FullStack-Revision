@@ -51,5 +51,7 @@ Spring Boot helps you:
          Security filters check JWT token
          If token is valid → request continues
          If invalid → 401 Unauthorized 
-      5. 
+      5. Controller layer 
+         The matching @RestController method is executed
+      
        
