@@ -27,4 +27,8 @@ Spring Boot helps you:
       1. Main method gets execute .
       2. Spring creates @ApplicationContext (IoC container)
               It is responsible for managing beans , handling DI and managinglifecycle.
-      3.  
+      3. Component scanning happens .
+          Finds classes with @RestController , @Service , @Repository etc.
+      4. Beans are created 
+          Objects are created and stored in container .
+      5
