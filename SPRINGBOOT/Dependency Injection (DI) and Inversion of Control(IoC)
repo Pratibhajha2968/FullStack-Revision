@@ -23,4 +23,4 @@ IoC stands for Inversion of Control , it control the creating and managing objec
     IoC = Principle
     DI = Implementation of that principle
 
-    
+    IoC and DI are not same because IoC is the concept and DI is the mechanism to inject dependencies into spring boot to achieve IoC.
