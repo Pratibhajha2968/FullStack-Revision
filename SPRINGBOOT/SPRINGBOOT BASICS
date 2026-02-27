@@ -34,4 +34,8 @@ Spring Boot helps you:
       5. Dependencies are injected.
           Controller -> Service -> Repository
       6. Embedded server (Tomcat) starts
-          Application is ready to handle requests. 
+          Application is ready to handle requests.
+
+    When Spring Boot starts, it creates the IoC container, scans components, creates and injects beans, applies auto-configuration, starts the embedded server, and becomes ready to handle requests.
+=====================================================================================
+  What   
