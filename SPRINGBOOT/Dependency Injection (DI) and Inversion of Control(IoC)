@@ -8,3 +8,7 @@ Spring Boot uses Inversion of Control (IoC) through the ApplicationContext conta
 When the application starts, Spring scans classes using component scanning, creates beans for classes annotated with @RestController, @Service, @Repository, and @Component, and stores them in the container.
 
 Then it injects required dependencies automatically using constructor injection or @Autowired.
+
+
+  What is Ioc ?
+Inversion of Control is the control for creating  and managing objects which gets transferred from programmer to the spring container .
