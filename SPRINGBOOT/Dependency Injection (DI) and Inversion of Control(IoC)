@@ -10,5 +10,12 @@ When the application starts, Spring scans classes using component scanning, crea
 Then it injects required dependencies automatically using constructor injection or @Autowired.
 
 
-  What is Ioc ?
-Inversion of Control is the control for creating  and managing objects which gets transferred from programmer to the spring container .
+       What is Ioc ?
+IoC stands for Inversion of Control , it control the creating and managing objects is transferred from programmer to the spring boot container .
+        
+        With Spring Boot (IoC):-
+         Spring creates PaymentService
+         Spring injects it into OrderService
+         You don’t control object creation
+         Loosely coupled
+             This is Inversion of Control.
