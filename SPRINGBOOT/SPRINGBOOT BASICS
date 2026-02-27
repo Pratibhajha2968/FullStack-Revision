@@ -40,4 +40,7 @@ Spring Boot helps you:
 =====================================================================================
   What happens when Request flow from React to Spring Boot ?
       1. Frontend sends request.
-         React sends HTTP request using axios.  
+         React sends HTTP request using axios.
+      2. Request reaches embedded server . 
+         The request first reaches the embedded Tomcat server inside Spring Boot.
+        
