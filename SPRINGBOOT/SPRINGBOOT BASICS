@@ -67,3 +67,6 @@ Spring Boot helps you:
                Interacts with database
                Executes CRUD operation
                Returns result to Service
+      8. Response flow back 
+            Repository → Service → Controller → DispatcherServlet → Tomcat → React
+            React receives JSON response and updates UI.
