@@ -1,0 +1,10 @@
+  What is Dependency Injection (DI) ?
+
+Dependency Injection (DI) is a design pattern where the Spring container creates objects and injects their dependencies automatically instead of us creating them using the new keyword.
+
+Without DI, classes become tightly coupled because they directly create their dependent objects. With DI, the application becomes loosely coupled, easier to test, and more maintainable.
+
+Spring Boot uses Inversion of Control (IoC) through the ApplicationContext container.
+When the application starts, Spring scans classes using component scanning, creates beans for classes annotated with @RestController, @Service, @Repository, and @Component, and stores them in the container.
+
+Then it injects required dependencies automatically using constructor injection or @Autowired.
