@@ -19,3 +19,8 @@ IoC stands for Inversion of Control , it control the creating and managing objec
          You don’t control object creation
          Loosely coupled
              This is Inversion of Control.
+
+    IoC = Principle
+    DI = Implementation of that principle
+
+    
