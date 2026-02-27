@@ -72,4 +72,4 @@ Spring Boot helps you:
             React receives JSON response and updates UI.
 
       When a request comes from React, it first reaches the embedded Tomcat server. Then DispatcherServlet routes it to the appropriate controller. If Spring Security is enabled, filters validate the JWT token before controller execution. The controller calls the service layer for business logic, which interacts with the repository to access the database. Finally, the response is returned back to the frontend as JSON.
-=====================================================================================
+===================================================================================== 
