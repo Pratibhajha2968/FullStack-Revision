@@ -53,5 +53,17 @@ Spring Boot helps you:
          If invalid → 401 Unauthorized 
       5. Controller layer 
          The matching @RestController method is executed
-      
-       
+               Controller:
+                  Accepts request
+                  Validates input
+                  Calls Service layer
+      6. Service layer
+           Service:-
+              Contains business logic
+              Processes data
+              Calls Repository layer 
+      7. Repository layer 
+           Repository :-
+               Interacts with database
+               Executes CRUD operation
+               Returns result to Service
