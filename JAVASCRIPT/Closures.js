@@ -13,6 +13,11 @@
      What are promises ? 
       ==> A promise represents a value that may be available now , later or never .
 
+       States of promises are :-
+          Pending 
+          Fullfilled
+          Rejected 
+
 
 
 */
