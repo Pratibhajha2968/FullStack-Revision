@@ -49,4 +49,7 @@ If the token payload is modified, the signature will not match when recalculated
 =====================================================================================
 What happens when the user refreshes the page in a React + JWT application?
 
-==>
+==>When the user refreshes the page, the React application reloads and its state resets.
+However, since the JWT token is stored in localStorage, it still exists after the refresh.
+The frontend reads the token again and continues to send it in the Authorization header for protected API calls.
+As long as the token is valid and not expired, the user remains logged in.
