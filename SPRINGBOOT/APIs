@@ -1,0 +1,7 @@
+REST (Representational State Transfer) is an architectural style for designing web APIs where resources are identified using URLs and operations are performed using HTTP methods like GET, POST, PUT, and DELETE.
+
+It was introduced by Roy Fielding in 2000 in his PhD dissertation. REST is not a protocol, but a set of architectural constraints.
+
+An API is considered RESTful if it follows REST principles such as statelessness, client-server separation, uniform interface, and proper use of HTTP methods.
+
+
