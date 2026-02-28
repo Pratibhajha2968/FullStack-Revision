@@ -53,3 +53,5 @@ What happens when the user refreshes the page in a React + JWT application?
 However, since the JWT token is stored in localStorage, it still exists after the refresh.
 The frontend reads the token again and continues to send it in the Authorization header for protected API calls.
 As long as the token is valid and not expired, the user remains logged in.
+ 
+    If the token expires, the server will return 401 Unauthorized, and the user will need to log in again.
