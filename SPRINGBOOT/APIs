@@ -55,3 +55,5 @@ The frontend reads the token again and continues to send it in the Authorization
 As long as the token is valid and not expired, the user remains logged in.
  
     If the token expires, the server will return 401 Unauthorized, and the user will need to log in again.
+
+=====================================================================================
