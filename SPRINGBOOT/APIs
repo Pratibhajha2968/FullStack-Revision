@@ -5,3 +5,42 @@ It was introduced by Roy Fielding in 2000 in his PhD dissertation. REST is not a
 An API is considered RESTful if it follows REST principles such as statelessness, client-server separation, uniform interface, and proper use of HTTP methods.
 
 
+====================================================================================
+
+How does JWT authentication work step by step?
+        Explain the full flow:
+        Login → Token generation → Token validation → Protected API access.
+
+==> When a user logs in, the frontend sends a login request with username and password to the backend.
+
+The controller receives the request, and Spring Security authenticates the user by loading user details from the database and comparing the password.
+
+If authentication fails, it returns 401 Unauthorized.
+If successful, the server generates a JWT token.
+
+The token is sent back to the frontend, and the frontend stores it (for example, in localStorage).
+
+For subsequent requests, the frontend sends the JWT in the Authorization header as a Bearer token.
+
+A custom JWT filter intercepts the request before it reaches the controller. The server validates the token’s signature and expiry.
+
+If the token is valid, the request proceeds to the controller. Otherwise, access is denied.
+
+=====================================================================================
+
+If JWT is stateless and not stored in the database, how does the server verify that the token is valid and not tampered with?
+
+==> JWT is stateless, meaning the server does not store session data.
+Instead, the token itself contains user information and is digitally signed using a secret key (or private key).
+
+When the client sends the token in each request, the server verifies the token by:
+
+ 1. Checking the digital signature using the same secret key.
+
+ 2. Validating the token’s expiration time.
+
+ 3. Extracting user details from the token payload.
+
+If the signature is valid and the token is not expired, the server considers it authentic.
+If someone tampers with the token, the signature verification will fail.
+
