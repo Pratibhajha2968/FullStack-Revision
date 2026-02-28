@@ -44,3 +44,4 @@ When the client sends the token in each request, the server verifies the token b
 If the signature is valid and the token is not expired, the server considers it authentic.
 If someone tampers with the token, the signature verification will fail.
 
+If the token payload is modified, the signature will not match when recalculated using the secret key, and validation fails.
