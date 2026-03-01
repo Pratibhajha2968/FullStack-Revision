@@ -48,4 +48,8 @@
             Repeat process
     Microtasks always run before macrotasks.
 
+
+    ==>A macrotask is a normal asynchronous task that waits in the task (callback) queue and runs when the event loop picks it.
+    
+
 */
