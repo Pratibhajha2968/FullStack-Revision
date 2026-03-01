@@ -8,6 +8,9 @@
              Used in React (state logic understanding)
              Used in callbacks
 
+    Why closures are useful in javascript ?
+    ==> Closures are useful in javascript for data encapsulation or data hiding , where we can create private variables . They are also used to maintain state across function calls . And they are commonly used in asynchronus operations like setTimeOut , event handlers and callback . 
+
 =====================================================================================
 
      What are promises ? 
