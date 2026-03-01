@@ -21,6 +21,8 @@
 
         State is a data container that holds information about a component and controls its behavior and rendering. When the state changes, the UI updates automatically.
 
+        State is used to manage data within a component. It represents the current condition or data of that component and can change over time using setState (or useState in functional components).
+
 
 
 
