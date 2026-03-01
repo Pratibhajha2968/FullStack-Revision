@@ -62,6 +62,9 @@
                 console.log("Macrotask");
                 }, 0);
 
-                
+                Even with 0ms, it waits for:
+                    All synchronous code to finish
+                    All microtasks to finish
+                    Then it runs.
 
 */
