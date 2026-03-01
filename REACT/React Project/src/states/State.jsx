@@ -25,6 +25,10 @@
 
 
 
+        The key difference is that state is managed inside the component and can be updated, while props are passed from outside and are immutable inside the receiving component.
+
+
+
 
 
 */
