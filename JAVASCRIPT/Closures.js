@@ -21,6 +21,8 @@
           Fullfilled
           Rejected 
 
+=====================================================================================
 
+    What are microtask and macrotasks ?
 
 */
