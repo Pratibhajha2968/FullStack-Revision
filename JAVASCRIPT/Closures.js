@@ -22,7 +22,30 @@
           Rejected 
 
 =====================================================================================
-
+     
+     Javascript event loop :- 
+        javascript has :
+         1. call stack 
+         2. Web APIs
+         3. Task queues
+            a. Microtask (executes fast)
+            b. Macrotask (also known as callback queue)
+     
+     
     What are microtask and macrotasks ?
+    ==> A microtask is a high priority async task that run immediately after the current asynchronus code finishes before any macrotask . Microtasks runs before macrotask . 
+        COMMON MICROTASKS are :-
+          1.promise.then()
+          2.promise.catch()
+          3.promise.finally()
+          4.queue Microtask()
+          5.MutationObserver
+
+        When JavaScript runs:
+            Run all synchronous code
+            Run ALL microtasks
+            Run ONE macrotask
+            Repeat process
+    Microtasks always run before macrotasks.
 
 */
