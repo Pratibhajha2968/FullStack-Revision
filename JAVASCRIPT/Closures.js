@@ -67,4 +67,9 @@
                     All microtasks to finish
                     Then it runs.
 
+                Now Event Loop Logic
+                  There are two queues:
+                      Microtask Queue → Promises
+                      Macrotask Queue → setTimeout
+
 */
