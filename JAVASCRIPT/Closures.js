@@ -57,4 +57,11 @@
                 DOM events (click, scroll)
                 setImmediate (Node.js)
 
+                EXAMPLE:-
+                setTimeout(() => {
+                console.log("Macrotask");
+                }, 0);
+
+                
+
 */
