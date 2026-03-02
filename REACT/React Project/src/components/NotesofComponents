@@ -22,3 +22,9 @@ Types of components are :
                1.MOUNT
                2.UNMOUNT
                3.UPDATE
+
+
+=========================================================================================
+When does a react component re-render ?
+==> 1. When state changes :-
+             
