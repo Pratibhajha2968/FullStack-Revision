@@ -32,4 +32,8 @@ When does a react component re-render ?
                   setCount(1);
 
                   When setCount is called :- 
-                   1. 
+                   1. React updates the state .
+                   2. The component function runs again .
+                   3. UI updates if needed .
+
+         
