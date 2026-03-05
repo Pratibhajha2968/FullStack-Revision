@@ -28,3 +28,5 @@ Types of components are :
 When does a react component re-render ?
 ==> 1. When state changes :-
              If the components states updates , React re-renders the components.
+               EX:-   const [count, setCount] = useState(0);
+                  setCount(1);
