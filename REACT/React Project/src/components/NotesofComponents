@@ -36,4 +36,4 @@ When does a react component re-render ?
                    2. The component function runs again .
                    3. UI updates if needed .
 
-         
+         React only re-renders if the state value actually changes.
