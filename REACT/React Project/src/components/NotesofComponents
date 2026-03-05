@@ -30,3 +30,6 @@ When does a react component re-render ?
              If the components states updates , React re-renders the components.
                EX:-   const [count, setCount] = useState(0);
                   setCount(1);
+
+                  When setCount is called :- 
+                   1. 
