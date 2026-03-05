@@ -37,3 +37,6 @@ When does a react component re-render ?
                    3. UI updates if needed .
 
          React only re-renders if the state value actually changes.
+
+==> 2. When props changes :-
+            If a parent component passes new props , the child components re-renders .
