@@ -76,3 +76,5 @@ When does a react component re-render ?
           2. Creates virtual DOM .  
           3. Compares with previous DOM .
           4. Updates only the changed part .
+
+          This makes react fast and efficient .
