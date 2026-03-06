@@ -68,3 +68,11 @@ When does a react component re-render ?
             In class components:
                   this.forceUpdate();
             This forces a re-render even if nothing changed.
+
+
+   A re-render does not mean the DOM updates immediately :-
+        React 
+          1. Re-runs components . 
+          2. Creates virtual DOM .  
+          3. Compares with previous DOM .
+          4. Updates only the changed part .
