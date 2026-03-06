@@ -80,4 +80,7 @@ When does a react component re-render ?
           This makes react fast and efficient .
 
       How to prevent unnecessary re-renders in React ?
-       ==> 
+       ==> To prevent unnecessary re-renders in React like :-
+            1. useMemo
+            2. React.memo
+            3. useCallBack
