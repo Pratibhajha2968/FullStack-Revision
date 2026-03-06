@@ -58,4 +58,7 @@ When does a react component re-render ?
                  React.memo()
 
 ==>  4. When context value changes :-
-            
+            If a component uses React Context , it re-renders when the context value changes .
+              EX :- 
+                   const theme = useContext(ThemeContext);
+                   If ThemeContext value updates → component re-renders.
