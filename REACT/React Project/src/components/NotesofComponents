@@ -78,3 +78,6 @@ When does a react component re-render ?
           4. Updates only the changed part .
 
           This makes react fast and efficient .
+
+      How to prevent unnecessary re-renders in React ?
+       ==> 
