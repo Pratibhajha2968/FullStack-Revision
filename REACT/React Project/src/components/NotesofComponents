@@ -41,4 +41,6 @@ When does a react component re-render ?
 ==> 2. When props changes :-
             If a parent component passes new props , the child components re-renders .
                <Child name="Pratibha" />
-               
+               If the parents changes it to :-
+               <Child name ="Rahul"  />
+               child will re-render because props changes.
