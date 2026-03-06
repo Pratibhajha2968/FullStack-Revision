@@ -62,3 +62,9 @@ When does a react component re-render ?
               EX :- 
                    const theme = useContext(ThemeContext);
                    If ThemeContext value updates → component re-renders.
+
+
+==> 5. When forceUpdate is called class component :-
+            In class components:
+                  this.forceUpdate();
+            This forces a re-render even if nothing changed.
