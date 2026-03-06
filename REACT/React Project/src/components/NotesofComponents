@@ -54,3 +54,8 @@ When does a react component re-render ?
                       return <Child />
                  } 
                When parent re-renders -> Child also re-renders .
+                To avoid unnecessary re-renders, React provides:
+                 React.memo()
+
+==>  4. When context value changes :-
+            
