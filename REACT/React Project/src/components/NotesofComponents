@@ -83,4 +83,4 @@ When does a react component re-render ?
        ==> To prevent unnecessary re-renders in React like :-
             1. useMemo
             2. React.memo
-            3. useCallBack
+            3. useCallBack 
