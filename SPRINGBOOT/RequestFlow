@@ -26,4 +26,5 @@
                   @Repository :-
                           It provides connection between ackend and database . 
                           Responsible for database operations . 
+                          It uses spring data JPA . 
 */
