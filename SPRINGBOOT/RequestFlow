@@ -22,4 +22,7 @@
                               Validate user
                               Process job application
                               Generate JWT token
+
+                  @Repository :-
+                          It provides connection between ackend and database .
 */
