@@ -27,4 +27,5 @@
                           It provides connection between ackend and database . 
                           Responsible for database operations . 
                           It uses spring data JPA . 
+                                public interface UserRepository extends JpaRepository<User, Long>
 */
