@@ -28,4 +28,8 @@
                           Responsible for database operations . 
                           It uses spring data JPA . 
                                 public interface UserRepository extends JpaRepository<User, Long>
+
+                  Database :-
+                         Stores application data such as :-
+                                
 */
