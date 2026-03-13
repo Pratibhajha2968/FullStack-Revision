@@ -24,5 +24,6 @@
                               Generate JWT token
 
                   @Repository :-
-                          It provides connection between ackend and database .
+                          It provides connection between ackend and database . 
+                          Responsible for database operations . 
 */
