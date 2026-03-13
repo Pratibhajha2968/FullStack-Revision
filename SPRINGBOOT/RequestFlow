@@ -35,4 +35,19 @@
                             Jobs
                             Applications
                             Example: MySQL
+
+
+                            React Login Form
+                                   ↓
+                       Controller receives request
+                                   ↓
+                        Service verifies credentials
+                                   ↓
+                      Repository fetches user from database
+                                   ↓
+                        Database returns data
+                                   ↓
+                          Service generates JWT
+                                ↓
+                      Controller sends response to React
 */
