@@ -2,7 +2,8 @@
       Request flow from frontend to backend :-
                Frontend (React) -> Controller -> Service -> Repository -> Database
 
-               
+                 Frontend (React) :-
+                        The user interacts with the UI.
 
 
 */
