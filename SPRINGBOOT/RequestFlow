@@ -27,9 +27,12 @@
                           It provides connection between ackend and database . 
                           Responsible for database operations . 
                           It uses spring data JPA . 
+                                public interface UserRepository extends 
                                 public interface UserRepository extends JpaRepository<User, Long>
 
                   Database :-
-                         Stores application data such as :-
-                                
+                      Users
+                            Jobs
+                            Applications
+                            Example: MySQL
 */
