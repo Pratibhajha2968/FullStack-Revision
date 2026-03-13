@@ -1,0 +1,8 @@
+/*
+      Request flow from frontend to backend :-
+               Frontend (React) -> Controller -> Service -> Repository -> Database
+
+               
+
+
+*/
