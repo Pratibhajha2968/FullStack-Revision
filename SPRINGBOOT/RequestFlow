@@ -19,4 +19,7 @@
                   @Service :-
                           It is the business layer where business logic are solved .
                           It process the data and performs operation . 
+                              Validate user
+                              Process job application
+                              Generate JWT token
 */
