@@ -4,6 +4,7 @@
 
                  Frontend (React) :-
                         The user interacts with the UI.
+                        React sends an HTTP request (API) call to the backend .
 
 
 */
