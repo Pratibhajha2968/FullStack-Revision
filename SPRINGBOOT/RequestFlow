@@ -11,4 +11,11 @@
                   @Controller :-
                          Receives the HTTP request from frontend . 
                          Handles request mapping using annotations like @RestController .
+                             @RestController
+                             @RequestMapping("/users")
+
+                             This controller calls the service layer.
+
+                  @Service :-
+                          It is the business layer where business logic are solved .
 */
