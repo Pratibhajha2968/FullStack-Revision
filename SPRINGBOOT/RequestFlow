@@ -10,5 +10,5 @@
 
                   @Controller :-
                          Receives the HTTP request from frontend . 
-                         
+                         Handles request mapping using annotations like @RestController .
 */
