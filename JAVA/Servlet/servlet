@@ -4,4 +4,5 @@ SERVLET :-
      It acts as the middle layer between a client (browser) and a database or application logic.
 
      In simple words we can say that :-
+             Think of a Servlet as Java powered waiter - in this the client places an order (requests) 
     
