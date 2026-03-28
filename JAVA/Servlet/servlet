@@ -1,3 +1,3 @@
 SERVLET :- 
-   
+     A Servlet is a Java class that runs on a server and handles client requests (usually HTTP) to generate dynamic web content.
     
