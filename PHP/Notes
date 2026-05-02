@@ -6,4 +6,6 @@ PHP (Hypertext Preprocessor)  :-
 What does PHP means ?
     => Genaerates dynamic content (like user dashboards) .
     => Handles form data (login/signup) .
-    => Intearcts with databases (MySQL , PostgreSQL etc) .
+    => Intearcts with databases (MySQL , PostgreSQL etc) . 
+    => Mangaes sessions and cookies .
+    => 
