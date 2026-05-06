@@ -35,3 +35,5 @@ What does PHP means ?
 
 
           Starts with <?php and ends with ?>
+          Each statement ends with ;
+          Case-sensitive for variables
