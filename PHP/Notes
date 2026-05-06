@@ -25,4 +25,4 @@ What does PHP means ?
 
 
          Flow of PHP from frontend to backend  :- 
-             
+             User → Request → Server (PHP runs) → HTML Response
