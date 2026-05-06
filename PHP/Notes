@@ -29,4 +29,9 @@ What does PHP means ?
 
 
          PHP syntax :- 
-            
+            <?php
+              echo "Hello World";
+            ?>
+
+
+          Starts with <?php and ends with ?>
